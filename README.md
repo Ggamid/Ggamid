@@ -11,8 +11,8 @@
 </p>
 
 <h3 align="left">Connect to me:</h3>
-![Static Badge](https://img.shields.io/badge/khalidov--gamid%40mail.ru-blue)
-![Static Badge](https://img.shields.io/badge/telegram-%40GGAMID-blue)
+<img alt="Static Badge" src="https://img.shields.io/badge/telegram-%40GGAMID-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/khaldov--gamid%40mail.ru-blue">
 
 
 
