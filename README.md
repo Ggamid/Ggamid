@@ -1,4 +1,4 @@
-![telegram](https://github.com/Ggamid/Ggamid/assets/83129786/eeded4b3-9e64-477f-8dab-0b2704026b64)<h1 align="center">Hi 👋, I'm Gamid</h1>
+<h1 align="center">Hi 👋, I'm Gamid</h1>
 <h3 align="center">iOS Developer from Dagestan ⛰️</h3>
 
 - 🌱 I am currently taking **the course 100DayOfSwiftUI**
@@ -10,7 +10,8 @@
 <a href="https://instagram.com/gamid.proger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gamid.proger" height="30" width="40" /></a>
 </p>
 
-![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+<a href="https://instagram.com/gamid.proger" target="blank"><img align="center" src="https://simpleicons.org/icons/telegram.svg" alt="gamid.proger" height="30" width="40" /></a>
+</p>
 
 </p>
 
