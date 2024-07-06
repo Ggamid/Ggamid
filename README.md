@@ -3,7 +3,7 @@
 
 - 🌱 I am currently taking **the course 100DayOfSwiftUI**
 
-- 📝 I keep my blog in telegram [https://t.me/gamid_proger](https://t.me/gamid_proger)
+- 📝 I keep my blog in [telegram](https://t.me/gamid_proger)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
