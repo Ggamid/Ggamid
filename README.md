@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gamid</h1>
 <h3 align="center">iOS Developer from Dagestan ⛰️</h3>
 
-- 🌱 I am currently taking **the course 100DayOfSwiftUI**
+- 🌱 I am currently developing my petproject **QuranTracker**
 
 - 📝 I keep my blog in [telegram](https://t.me/gamid_proger)
 
